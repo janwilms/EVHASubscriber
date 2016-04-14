@@ -61,13 +61,11 @@
             // 
             // listBoxLog
             // 
-            this.listBoxLog.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left)));
             this.listBoxLog.FormattingEnabled = true;
             this.listBoxLog.ItemHeight = 31;
             this.listBoxLog.Location = new System.Drawing.Point(18, 147);
             this.listBoxLog.Name = "listBoxLog";
-            this.listBoxLog.Size = new System.Drawing.Size(722, 1027);
+            this.listBoxLog.Size = new System.Drawing.Size(722, 1182);
             this.listBoxLog.TabIndex = 4;
             // 
             // lblHeader
@@ -123,7 +121,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(16F, 31F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1956, 1191);
+            this.ClientSize = new System.Drawing.Size(2146, 1363);
             this.Controls.Add(this.lblPrimeDisplay);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.pbPrime);
